@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResponseDoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <response>
+    <index>1</index>
+    <invoiceUid>4C5D943FF0E489CC979D21576B984256D12F3611</invoiceUid>
+    <invoiceMark>300000103169143</invoiceMark>
+    <qrUrl>https://mydataapidev.aade.gr/TimologioQR/QRInfo?q=fake_test_data_8cd69e4d721f851f727204552fe22933d84c9bc5cb7e191e87f3f3d9a02a9937</qrUrl>
+    <statusCode>Success</statusCode>
+  </response>
+  <response>
+    <index>2</index>
+    <invoiceUid>B135B937351A840FFCD80314BBBBB37CEBAF454A</invoiceUid>
+    <invoiceMark>300000103169144</invoiceMark>
+    <qrUrl>https://mydataapidev.aade.gr/TimologioQR/QRInfo?q=fake_test_data_8cd69e4d721f851f727204552fe22933d84c9bc5cb7e191e87f3f3d9a02a9937</qrUrl>
+    <statusCode>Success</statusCode>
+  </response>
+</ResponseDoc>
